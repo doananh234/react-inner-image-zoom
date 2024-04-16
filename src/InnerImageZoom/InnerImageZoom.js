@@ -1,3 +1,4 @@
+"use client";
 import React, { Fragment, useCallback, useEffect, useRef, useState } from 'react';
 import PropTypes from 'prop-types';
 import Image from './components/Image';
